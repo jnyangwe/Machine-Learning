@@ -13,7 +13,7 @@ from mpl_toolkits.mplot3d import Axes3D
 ```
 
 ### Part 1: Training of a neural network with a simple architecture
-![title](/simpleArch.png)
+![title](https://github.com/jnyangwe/Machine-Learning/blob/master/NeuralNetwork/simpleArch.png)
 
 
 ```python
