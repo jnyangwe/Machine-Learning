@@ -1,6 +1,7 @@
 
 # SUPPORT VECTOR MACHINES
-
+Simple implementation of support vector machine. 
+The functions used have been implemented in svm.py file
 
 
 ```python
