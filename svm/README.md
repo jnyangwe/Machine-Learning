@@ -1,11 +1,10 @@
 
-# Joseph Nyangwechi
-# Problem set 8
+# SUPPORT VECTOR MACHINES
 
 
 
 ```python
-import ps8 as p
+import svm as p
 ```
 
 I will use the following function to plot my data together with the hyperplanes
